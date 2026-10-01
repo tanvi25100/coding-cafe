@@ -1,0 +1,16 @@
+  683  cd ~/coding-cafe
+  684  echo $PATH
+  685  which python3
+  686  which pip
+  687  which ls
+  688  pthon3
+  689  python3 -m venv .venv
+  690  source .venv/bin/activate
+  691  which python3
+  692  pip list
+  693  pip install requests
+  694  pip list
+  695  deactivate
+  696  which python3
+  697  man ls
+  698  python3
