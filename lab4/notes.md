@@ -35,4 +35,19 @@ They are the commit hash. Every commit has a unique ID which can be used to refe
 README.md is a standard name that GitHub recognises. A  README in the top folder is displayed automatically on the repository's front page. It is the first thing a visitor reads, so it explains 
 what the project is how it is organised.
 
+##11
+gh auth login signed me in through the browser and saved a login token on my laptop. It also set Git up to use that token automatically, so when I push, Git proves who I am without asking for a password.
+
+## Q12
+The README.md is shown as formatted text below the list of files. GitHub automatically displays the README from the top folder because it is the standard file that introduces a project to visitors.
+
+## Q13
+No. git log --oneline shows the same commits with the same hashes as before. Pushing only copied my history to GitHub, the only difference is that the log now also shows origin/main, so 
+GitHub's copy is at the same commit as mine.
+
+## Q14
+A private repository exists on GitHub, it is stored and backed up online, but only I and the people I invite (like the TAs) can see it.
+A repository that does not exist on GitHub only lives on my laptop, so nobody else can see it.
+
+
 
